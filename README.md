@@ -3,7 +3,7 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.7-yellow.svg)](https://www.python.org/)
 [![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Mac-orange.svg)]()
-![GitHub](https://img.shields.io/github/license/MrCl0wnLab/SenderMailgunPython?color=blue)
+![GitHub](https://img.shields.io/github/license/MrCl0wnLab/Python_PyQT_ProgressBarPurple?color=blue)
 --
 This is the study of an interface with PyQT /
 Python - Splash Screen - Modern Gui [Qt Designer, PySide2/PyQt5] 
